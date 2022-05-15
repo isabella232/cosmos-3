@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>icon/brands/brand-dropbox</title>
-    <desc>Created with Sketch.</desc>
-    <g id="icon/brands/brand-dropbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M4.98813559,1.5 L9.97711864,4.6875 L4.98813559,7.875 L1.08357767e-13,4.6875 L4.98813559,1.5 Z M14.9652542,1.5 L19.9533898,4.6875 L14.9652542,7.875 L9.97711864,4.6875 L14.9652542,1.5 Z M1.08357767e-13,11.0625 L4.98813559,7.875 L9.97711864,11.0625 L4.98813559,14.25 L1.08357767e-13,11.0625 Z M14.9652542,7.875 L19.9533898,11.0625 L14.9652542,14.25 L9.97711864,11.0625 L14.9652542,7.875 Z M4.98813559,15.3125 L9.97711864,12.125 L14.9652542,15.3125 L9.97711864,18.5 L4.98813559,15.3125 Z" id="Combined-Shape" fill="#000000"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" version="1.1" viewBox="0 0 20 20"><title>icon/brands/brand-dropbox</title><desc>Created with Sketch.</desc><g id="icon/brands/brand-dropbox" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Combined-Shape" fill="#000" d="M4.98813559,1.5 L9.97711864,4.6875 L4.98813559,7.875 L1.08357767e-13,4.6875 L4.98813559,1.5 Z M14.9652542,1.5 L19.9533898,4.6875 L14.9652542,7.875 L9.97711864,4.6875 L14.9652542,1.5 Z M1.08357767e-13,11.0625 L4.98813559,7.875 L9.97711864,11.0625 L4.98813559,14.25 L1.08357767e-13,11.0625 Z M14.9652542,7.875 L19.9533898,11.0625 L14.9652542,14.25 L9.97711864,11.0625 L14.9652542,7.875 Z M4.98813559,15.3125 L9.97711864,12.125 L14.9652542,15.3125 L9.97711864,18.5 L4.98813559,15.3125 Z"/></g></svg>
